@@ -8,7 +8,8 @@ Get dependencies with python 3.9:
 ```
 pip install -r requirements.txt
 ```
-Change the 'ckpt.tar' to the path of the pretrained encoder
+Change the 'ckpt.tar' to the path of the pretrained encoder.
+A pretrained encoder is provided at https://huggingface.co/datasets/Yuhan2022/ckpt/resolve/main/ckpt.tar.
 ```
 Run training on DMC Vision:
 ```
