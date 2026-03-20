@@ -2,7 +2,7 @@
 All analysis code and data are compatible with and can be executed in MATLAB R2021b. 
 
 ## Details
-In the “**Figure 2**” folder, we provide:
+* In the “**Figure 2**” folder, we provide:
 
 -“walk_state_manifold_analysis.m” for results (A) and (D);
 	
@@ -12,7 +12,7 @@ In the “**Figure 2**” folder, we provide:
 
 “reward_analysis.m” for result (G).
 
-In the “**Figure 3**” folder, we provide:
+* In the “**Figure 3**” folder, we provide:
 
 “run_transfer_state_manifold_analysis.m” for result (A);
 
