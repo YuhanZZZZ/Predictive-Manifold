@@ -50,31 +50,31 @@ All analysis code and data are compatible with and can be executed in MATLAB R20
 
 * In the “**Figure S1**” folder, we provide:
   - “walk_actor_manifold_analysis.m” for results (A) and (C);
-	“run_actor_manifold_analysis.m” for results (B) and (D);
-	“transfer_run_actor_manifold_analysis.m” for result (E).
+  - “run_actor_manifold_analysis.m” for results (B) and (D);
+  - “transfer_run_actor_manifold_analysis.m” for result (E).
 
 * In the “**Figure S2**” folder, we provide:
-	“walk_action_manifold_analysis.m” for results (A) and (C);
-	“run_action_manifold_analysis.m” for results (B) and (D);
-	“transfer_run_action_manifold_analysis.m” for result (E).
+  - “walk_action_manifold_analysis.m” for results (A) and (C);
+  - “run_action_manifold_analysis.m” for results (B) and (D);
+  - “transfer_run_action_manifold_analysis.m” for result (E).
 
 * In the “**Figure S3**” folder, we provide:
-	“transfer_WM_actor_manifold_analysis.m” for results (A) and (E);
-	“transfer_part_of_WM_actor_manifold_analysis.m” for results (B) and (F);
-	“transfer_part_of_WM_actor_actor_manifold_analysis.m” for results (C) and (G);
-	“transfer_actor_actor_manifold_analysis.m” for results (D) and (H);
-	“actor_peak_frequency_analysis.m” for result (I);
-	“cal_cancorr_transfer_actor.m” for results (J) and (K).
+  - “transfer_WM_actor_manifold_analysis.m” for results (A) and (E);
+  - “transfer_part_of_WM_actor_manifold_analysis.m” for results (B) and (F);
+  - “transfer_part_of_WM_actor_actor_manifold_analysis.m” for results (C) and (G);
+  - “transfer_actor_actor_manifold_analysis.m” for results (D) and (H);
+  - “actor_peak_frequency_analysis.m” for result (I);
+  - “cal_cancorr_transfer_actor.m” for results (J) and (K).
 
 * In the “**Figure S4**” folder, we provide:
-	“transfer_WM_action_manifold_analysis.m” for results (A) and (E);
-	“transfer_part_of_WM_action_manifold_analysis.m” for results (B) and (F);
-	“transfer_part_of_WM_actor_action_manifold_analysis.m” for results (C) and (G);
-	“transfer_actor_action_manifold_analysis.m” for results (D) and (H);
-	“action_peak_frequency_analysis.m” for result (I);
-	“cal_cancorr_transfer_action.m” for results (J) and (K).
+  - “transfer_WM_action_manifold_analysis.m” for results (A) and (E);
+  - “transfer_part_of_WM_action_manifold_analysis.m” for results (B) and (F);
+  - “transfer_part_of_WM_actor_action_manifold_analysis.m” for results (C) and (G);
+  - “transfer_actor_action_manifold_analysis.m” for results (D) and (H);
+  - “action_peak_frequency_analysis.m” for result (I);
+  - “cal_cancorr_transfer_action.m” for results (J) and (K).
 
 * In the “**Figure S5**” folder, we provide:
-	“predictive_disabled_actor_manifold_analysis.m” for results (A) and (C);
-	“predictive_disabled_action_manifold_analysis.m” for results (B) and (D).
+  - “predictive_disabled_actor_manifold_analysis.m” for results (A) and (C);
+  - “predictive_disabled_action_manifold_analysis.m” for results (B) and (D).
 
