@@ -19,3 +19,4 @@ Monitor results:
 tensorboard --logdir ./logdir
 ```
 
+Run code in 'analysis' for the following low-dimensional analysis.
