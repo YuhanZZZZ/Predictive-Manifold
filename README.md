@@ -9,7 +9,7 @@ Get dependencies with python 3.9:
 pip install -r requirements.txt
 ```
 Change the 'ckpt.tar' to the path of the pretrained encoder.
-A pretrained encoder is provided at https://huggingface.co/datasets/Yuhan2022/ckpt/resolve/main/ckpt.tar.
+The encoder can be at https://huggingface.co/datasets/Yuhan2022/ckpt/resolve/main/ckpt.tar.
 ```
 Run training on DMC Vision:
 ```
@@ -21,3 +21,4 @@ tensorboard --logdir ./logdir
 ```
 
 Run code in 'analysis' for the following low-dimensional analysis.
+The original data link is https://osf.io/bzd7j and https://osf.io/vb59q.
