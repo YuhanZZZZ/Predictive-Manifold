@@ -20,5 +20,6 @@ Monitor results:
 tensorboard --logdir ./logdir
 ```
 
+## Analysis details
 Run code in 'analysis' for the following low-dimensional analysis.
 The original data link is https://osf.io/bzd7j and https://osf.io/vb59q.
