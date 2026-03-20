@@ -1,4 +1,4 @@
-# policy learning 
+# Policy learning 
 Our MBRL-based code is bulit upon the PyTorch implementation of [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104v1), 
 which is the baseline for APE, and can be found at https://github.com/NM512/dreamerv3-torch
 
