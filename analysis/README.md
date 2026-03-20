@@ -4,9 +4,9 @@ All analysis code and data are compatible with and can be executed in MATLAB R20
 ## Details
 * In the “**Figure 2**” folder, we provide:
 
--“walk_state_manifold_analysis.m” for results (A) and (D);
+  - “walk_state_manifold_analysis.m” for results (A) and (D);
 	
--“run_state_manifold_analysis.m” for results (B) and (E);
+  - “run_state_manifold_analysis.m” for results (B) and (E);
 
 “transfer_run_manifold_analysis.m” for results (C) and (F);
 
